@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Text Scrolling Challenge 216349729"

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Toast Part B 216349729</string>
+    <string name="button">Button</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="hello_toast">Hello Toast</string>
+    <string name="_0">0</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>
